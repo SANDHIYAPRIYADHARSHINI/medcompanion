@@ -1,0 +1,5 @@
+{
+  "name": "MediCompanion",
+  "description": "A smart medical companion for tracking medications, health history, and AI-powered medical guidance.",
+  "requestFramePermissions": []
+}
