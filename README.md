@@ -31,13 +31,13 @@ It lets patients track their doses, family members monitor them, and doctors get
 ## Run locally
 
 1. Install dependencies
-   npm install
+   -npm install
 
 2. Add your API key in `.env`
-   VITE_GEMINI_API_KEY=your_api_key
+   -VITE_GEMINI_API_KEY=your_api_key
 
 3. Start the app
-   npm run dev
+   -npm run dev
 ---
 
 ## Demo accounts
